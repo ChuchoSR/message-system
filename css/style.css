@@ -149,10 +149,21 @@ button:hover{
 
 
 
-.info h2{
-    margin-top: 0;
+.info h2 {
+    /* margin-top: 0; */
     font-size: 2em;
     font-weight: 400;
-    /* font-size: 2.5em; */
+    text-align: center;
+    margin: 0;
 }
 
+
+.first-line{
+    margin-bottom: 0;
+    width: 100%;
+}
+
+.second-line{
+    margin-top: 0;
+    width: 91.78%;
+}
